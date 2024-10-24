@@ -3,6 +3,22 @@
     "hello_backend": {
       "main": "src/hello_backend/main.mo",
       "type": "motoko"
+    },
+    "cgpa": {
+      "main": "src/hello_backend/cgpa.mo",
+      "type": "motoko"
+    },
+    "even": {
+      "main": "src/hello_backend/even.mo",
+      "type": "motoko"
+    },
+    "voting": {
+      "main": "src/hello_backend/voting.mo",
+      "type": "motoko"
+    },
+    "student": {
+      "main": "src/hello_backend/student.mo",
+      "type": "motoko"
     }
   },
   "defaults": {
